@@ -1,7 +1,7 @@
 # Data-Analysis-using-Microsoft-Excel
 Data Analysis of Vindra store sales Data using Microsoft Excel
 
-## Data Analysis Insights 
+## Insights 
 #### 1. In the month of march Vindra store recive highest order and make highest sales which is more than 1.9 Million. 
 #### 2. Womens are more likely to buy compare to men. (64%)
 #### 3, Adult women have highest contribution in sales. (34.59%)
